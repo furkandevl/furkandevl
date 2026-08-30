@@ -60,8 +60,8 @@ I'm solid with C++, JS, Java, and Python. Always building with Rust, Go, C#, Kot
 
 ### github stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furkandevl&theme=shadow_green" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furkandevl&theme=shadow_green" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furkandevl&theme=dark&bg_color=000000&title_color=00ff41&text_color=9dffb0&icon_color=00cc44&border_color=0a3d14" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furkandevl&theme=dark&bg_color=000000&title_color=00ff41&text_color=9dffb0&icon_color=00cc44&border_color=0a3d14&chart_color=00ff41" alt="Top Languages" />
 <br />
 <img src="https://streak-stats.demolab.com?user=furkandevl&background=000000&border=0a3d14&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=39ff14&currStreakLabel=00aa44&sideLabels=2d8a2d&dates=1a5c1a&locale=tr" alt="GitHub Streak" />
 
