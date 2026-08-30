@@ -58,39 +58,7 @@
 
 <td valign="top" width="62%">
 
-
-
-### hakkımda
-
-
-
-kod yazıyorum ama öyle "çalışsın yeter" modunda değilim. hızlı olsun temiz dursun gereksiz yük taşımasın istiyorum
-
-
-
-düşük gecikmeli sistemler ve network tarafı tecrübeli ve profosoynel oldugumu dusunuyorum. algoritma concurrency optimizasyon olayları ilgimi çekiyor ve araştırıyorum
-
-
-
-c++ js java python tarafında iyiyim. rust go c# kotlin swift dart zig lua ruby scala r mojo elixir tarafında da sürekli bir şeyler deniyorum ve kendimi geliştiriyorum yeni projeler yapıyorum
-
-
-
-ai ı da boş boş kullanmıyorum araştırma mimari debug prototip optimizasyon yeni çıkan methodlar yenı uygulamalar ve işimi kolaylaştırmak için kullanıyorum
-
-
-
-arduino elektronik embedded devre lehim geçmişim de var yani sadece ekrana bakmıyorum
-
-
-
-500k+ global 80k+ türkiye seviyesinde online topluluk yönettim. insanlarla bir şey büyütmeyi biliyorum insan ve sosyal ilişkilerimin yeterince iyi
-
-
-
-ileride kendı yapay zeka şirketimi kurma hedefım var globalde dev olmak ıstıyorum
-
-
+I'm solid with C++, JS, Java, and Python. Always building with Rust, Go, C#, Kotlin, Swift, Dart, Zig, Lua, Ruby, Scala, R, Mojo, and Elixir — new projects, steady growth.
 
 </td>
 
