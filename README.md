@@ -210,57 +210,11 @@ discord: zonsdev
 
 </div>
 
-
-
 ---
 
-
-
 <div align="center">
 
-
-
-### motto
-
-
-
-**optimize everything. trust no one. build for scale.**
-
-
-
-</div>
-
-
-
-<br />
-
-
-
-```bash
-
-furkan@istanbul:~$ echo "keep building"
-
-keep building
-
-```
-
-
-
-`oturum açık. root yok. bir developer var. satır satır inşa ediyoruz.`
-
-
-
-<div align="center">
-
-
-
-<img src="https://komarev.com/ghpvc/?username=furkandevl&label=profile%20views&color=00ff41&style=flat-square" alt="Profile views" />
-
-
-
-`© furkandevl`
-
-
+<img src="https://komarev.com/ghpvc/?username=furkandevl&label=profile%20views&color=00ff41&style=flat-square&base=74000&abbreviated=true" alt="Profile views" />
 
 </div>
 
