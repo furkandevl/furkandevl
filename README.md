@@ -14,7 +14,7 @@
 
 
 
-# FURKAN DEVELOPER 
+# ALL EYES ON ME
 
 
 
@@ -120,11 +120,11 @@ istanbul 🇹🇷
 
 [![GitHub](https://img.shields.io/badge/github-furkandevl-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/furkandevl)
 
-[![Instagram](https://img.shields.io/badge/instagram-furkandevl-000000?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://instagram.com/zonsxd)
+[![Instagram](https://img.shields.io/badge/instagram-@zonsxd-000000?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://instagram.com/zonsxd)
 
-[![TikTok](https://img.shields.io/badge/tiktok-furkandevl-000000?style=for-the-badge&logo=tiktok&logoColor=00ff41)](https://tiktok.com/@zonsreal)
+[![TikTok](https://img.shields.io/badge/tiktok-zonsreal-000000?style=for-the-badge&logo=tiktok&logoColor=00ff41)](https://tiktok.com/@zonsreal)
 
-[![Discord](https://img.shields.io/badge/discord-furkandevl-000000?style=for-the-badge&logo=discord&logoColor=00ff41)](https://discord.com/users/1528387578917683292)
+[![Discord](https://img.shields.io/badge/discord-zonsdev-000000?style=for-the-badge&logo=discord&logoColor=00ff41)](https://discord.com/users/1528387578917683292)
 
 
 
@@ -136,7 +136,7 @@ instagram.com/zonsxd
 
 tiktok.com/@zonsreal
 
-discord: furkandevl
+discord: zonsdev
 
 ```
 
