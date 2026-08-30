@@ -61,10 +61,10 @@ I'm solid with C++, JS, Java, and Python. Always building with Rust, Go, C#, Kot
 ### github stats
 
 <a href="https://github.com/furkandevl">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkandevl&show_icons=true&hide_border=false&bg_color=000000&title_color=00ff41&text_color=9dffb0&icon_color=00cc44&ring_color=00ff41&border_color=0a3d14&locale=tr" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=furkandevl&show_icons=true&hide_border=false&bg_color=000000&title_color=00ff41&text_color=9dffb0&icon_color=00cc44&ring_color=00ff41&border_color=0a3d14" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/furkandevl">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkandevl&layout=compact&hide_border=false&bg_color=000000&title_color=00ff41&text_color=9dffb0&border_color=0a3d14&locale=tr" alt="Top Languages" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=furkandevl&layout=compact&hide_border=false&bg_color=000000&title_color=00ff41&text_color=9dffb0&border_color=0a3d14" alt="Top Languages" />
 </a>
 <br />
 <a href="https://github.com/furkandevl">
