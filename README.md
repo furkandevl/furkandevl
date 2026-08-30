@@ -214,7 +214,7 @@ discord: zonsdev
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=furkandevl&label=profile%20views&color=00ff41&style=flat-square&base=74000&abbreviated=true" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=furkandevl&label=profile%20views&color=00ff41&style=flat-square&base=74089" alt="Profile views" />
 
 </div>
 
