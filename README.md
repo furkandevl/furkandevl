@@ -1,16 +1,133 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/zons-terminal.gif" alt="ZONS terminal" width="100%" />
+</div>
 
-<!--
-**furkandevl/furkandevl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ZONS
+
+```bash
+zons@istanbul:~$ whoami
+```
+
+software developer · istanbul 🇹🇷
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=620&height=32&lines=zons%40istanbul%3A~%24+cat+about.txt;performans+hedef+degil+standart;low+latency%2C+network%2C+optimizasyon" alt="ZONS typing" />
+
+<br />
+
+<img src="https://img.shields.io/badge/software_developer-000000?style=for-the-badge&logo=devdotto&logoColor=00ff41" alt="Software Developer" />
+<img src="https://img.shields.io/badge/low--latency-000000?style=for-the-badge&logo=prometheus&logoColor=00ff41" alt="Low-Latency Systems" />
+<img src="https://img.shields.io/badge/performance-000000?style=for-the-badge&logo=speedtest&logoColor=00ff41" alt="Performance Engineering" />
+<img src="https://img.shields.io/badge/networking-000000?style=for-the-badge&logo=cisco&logoColor=00ff41" alt="Networking" />
+<img src="https://img.shields.io/badge/system_programming-000000?style=for-the-badge&logo=linux&logoColor=00ff41" alt="System Programming" />
+<img src="https://img.shields.io/badge/automation-000000?style=for-the-badge&logo=ansible&logoColor=00ff41" alt="Automation" />
+<img src="https://img.shields.io/badge/algorithms-000000?style=for-the-badge&logo=thealgorithms&logoColor=00ff41" alt="Algorithms" />
+<img src="https://img.shields.io/badge/ai_assisted-000000?style=for-the-badge&logo=openai&logoColor=00ff41" alt="AI-Assisted Engineering" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td valign="top" width="62%">
+
+### // hakkımda
+
+kod yazıyorum ama öyle "çalışsın yeter" modunda değilim. hızlı olsun temiz dursun gereksiz yük taşımasın istiyorum
+
+düşük gecikmeli sistemler ve network tarafı tecrübeli ve profosoynel oldugumu dusunuyorum. algoritma concurrency optimizasyon olayları ilgimi çekiyor ve araştırıyorum
+
+c++ js java python tarafında iyiyim. rust go c# kotlin swift dart zig lua ruby scala r mojo elixir tarafında da sürekli bir şeyler deniyorum ve kendimi geliştiriyorum yeni projeler yapıyorum
+
+ai ı da boş boş kullanmıyorum araştırma mimari debug prototip optimizasyon yeni çıkan methodlar yenı uygulamalar ve işimi kolaylaştırmak için kullanıyorum
+
+arduino elektronik embedded devre lehim geçmişim de var yani sadece ekrana bakmıyorum
+
+500k+ global 80k+ türkiye seviyesinde online topluluk yönettim. insanlarla bir şey büyütmeyi biliyorum insan ve sosyal ilişkilerimin yeterince iyi
+
+ileride kendı yapay zeka şirketimi kurma hedefım var globalde dev olmak ıstıyorum
+
+</td>
+<td valign="top" width="38%">
+
+### // konum
+
+`~/istanbul`
+
+istanbul 🇹🇷
+
+<br />
+
+### // bağlantılar
+
+[![GitHub](https://img.shields.io/badge/github-furkandevl-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/furkandevl)
+
+```text
+github.com/furkandevl
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### // tech stack
+
+<img src="https://skillicons.dev/icons?i=cpp,rust,js,ts,java,py,go,cs,kotlin,swift,dart&perline=11&theme=dark" alt="Tech stack 1" />
+<br />
+<img src="https://skillicons.dev/icons?i=zig,lua,ruby,scala,elixir,nodejs,linux,git,docker,arduino&perline=10&theme=dark" alt="Tech stack 2" />
+
+</div>
+
+---
+
+<div align="center">
+
+### // github stats
+
+<a href="https://github.com/furkandevl">
+  <img src="https://github-readme-stats.vercel.app/api?username=furkandevl&show_icons=true&hide_border=false&bg_color=000000&title_color=00ff41&text_color=9dffb0&icon_color=00cc44&ring_color=00ff41&border_color=0a3d14&locale=tr" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/furkandevl">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkandevl&layout=compact&hide_border=false&bg_color=000000&title_color=00ff41&text_color=9dffb0&border_color=0a3d14&locale=tr" alt="Top Languages" />
+</a>
+<br />
+<a href="https://github.com/furkandevl">
+  <img src="https://streak-stats.demolab.com?user=furkandevl&background=000000&border=0a3d14&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=39ff14&currStreakLabel=00aa44&sideLabels=2d8a2d&dates=1a5c1a&locale=tr" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### // motto
+
+**optimize everything. trust no one. build for scale.**
+
+</div>
+
+<br />
+
+```bash
+zons@istanbul:~$ echo "keep building"
+keep building
+```
+
+`// oturum açık. root yok. bir developer var. satır satır inşa ediyoruz.`
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=furkandevl&label=profile%20views&color=00ff41&style=flat-square" alt="Profile views" />
+
+`© zons · furkandevl`
+
+</div>
