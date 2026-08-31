@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="assets/furkan-terminal.gif" alt="furkan terminal" width="100%" />
+  <img src="assets/zons-terminal.gif" alt="zons terminal" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
 
-# FURKAN
+# ZONS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=6500&pause=1400&color=00FF41&center=true&vCenter=true&width=700&height=30&lines=furkan%40istanbul%3A~%24+whoami;software+developer+%C2%B7+istanbul+%F0%9F%87%B9%F0%9F%87%B7;low+latency+%C2%B7+network+%C2%B7+optimizasyon;performans+hedef+degil%2C+standart." alt="furkan typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=6500&pause=1400&color=00FF41&center=true&vCenter=true&width=700&height=30&lines=zons%40istanbul%3A~%24+whoami;software+developer+%C2%B7+istanbul+%F0%9F%87%B9%F0%9F%87%B7;low+latency+%C2%B7+network+%C2%B7+optimizasyon;performans+hedef+degil%2C+standart." alt="zons typing" />
 
 <br />
 
